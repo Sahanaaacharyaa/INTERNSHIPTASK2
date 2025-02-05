@@ -165,7 +165,11 @@ body{
     border-radius: 6px;
     border: 2px solid white;
 }
-
+.button:hover {
+    box-shadow: 0 0 20px rgba(242, 245, 245, 0.8), 0 0 30px rgba(241, 241, 241, 0.8);
+    border-color: rgba(255, 255, 255, 0.8);
+    
+}
 .i-frame{
     border:none;
    
